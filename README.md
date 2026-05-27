@@ -2,7 +2,7 @@
 
 Hỗ trợ & liên hệ: Telegram @aishop_vuz_bot
 
-<img width="480" alt="AI Account Shop by Vuz" src="https://github.com/user-attachments/assets/vuzaishop.png" />
+<img width="480" alt="AI Account Shop by Vuz" src="https://private-user-images.githubusercontent.com/86923443/598865977-2e839bf6-6b54-443f-aa92-74720705e7b7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk4OTM2NjUsIm5iZiI6MTc3OTg5MzM2NSwicGF0aCI6Ii84NjkyMzQ0My81OTg4NjU5NzctMmU4MzliZjYtNmI1NC00NDNmLWFhOTItNzQ3MjA3MDVlN2I3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTI3VDE0NDkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxZmExMDRjYmFjNjg3NjhmZDg1ZjkzODdlMTE0Zjg3YzBmYTc5N2U1N2RiYjYxNDNlODYyY2Q4OTcxMDllZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.iXA1jY83trQwv093vaxxlYSmkIJ5JneyixW63_nxb5Y" />
 
 Video cách sử dụng: https://www.youtube.com/watch?v=b4UsbcUMBnw
 
